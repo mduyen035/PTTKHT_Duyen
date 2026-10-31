@@ -1,0 +1,6 @@
+{
+  "name": "Trình Cà Phê — Quản lý kho và nguyên vật liệu",
+  "description": "Hệ thống quản lý kho, nguyên vật liệu, công thức pha chế, dữ liệu bán hàng và phê duyệt chuỗi Trình Cà Phê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
